@@ -79,13 +79,11 @@ Ingeniero de software y arquitecto de soluciones con **más de 14 años de traye
 
 ---
 
-### Featured Repositories / Repositorios Destacados
+### Featured Project / Proyecto Principal
 
-* **[`node-oauth-server`](https://github.com/alexagc/node-oauth-server)** — Modular OAuth 2.0 server built with Node.js, Redis token persistence, and Docker.
-* **[`nodejs-performance`](https://github.com/alexagc/nodejs-performance)** — Event loop profiling, stress testing, and concurrency benchmarks in Node.js.
-* **[`go4fun`](https://github.com/alexagc/go4fun)** — Concurrent programming sandbox exploring channels, goroutines, and Go idioms.
-* **[`git-flow`](https://github.com/alexagc/git-flow)** — Minimal Alpine Docker image configured with GitFlow branching automation for CI/CD.
-* **[`scala-sandbox`](https://github.com/alexagc/scala-sandbox)** — Functional and reactive patterns playground in Scala.
+* **[`alexagc.github.io`](https://github.com/alexagc/alexagc.github.io)** — **Web Portfolio & Architectural Showcase:** Modern bilingual portfolio designed with zero-dependency performance, Google Tag Manager event telemetry, automated CI/CD with GitHub Actions, and system design case studies.
+  * 🌐 **Live Web:** [https://alexagc.github.io](https://alexagc.github.io)
+  * 🛠️ **Stack:** HTML5 · CSS3 (Linear Craft Aesthetic) · Vanilla JS · GTM Telemetry · GitHub Actions CI/CD
 
 ---
 
